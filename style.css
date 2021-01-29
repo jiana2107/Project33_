@@ -1,8 +1,9 @@
 html, body {
-  margin: 0;
-  padding: 0;
+  margin:0;
+  padding:0;
 }
 canvas {
   display: block;
-  border : 8px solid maroon;
+  margin-left:400px;
+  border:10px solid lightcoral;
 } 
