@@ -136,9 +136,6 @@ function draw() {
     fill("red")
     text("GameOver", 300, 300); 
   }
-  
-  
-
    
 
 }
